@@ -760,6 +760,7 @@
 
 #### R technologies
 * React https://reactjs.org/blog/
+* React(New Blog) https://react.dev/blog
 * React Native http://facebook.github.io/react-native/blog/
 * Red http://www.red-lang.org
 * RocksDB http://rocksdb.org/blog
